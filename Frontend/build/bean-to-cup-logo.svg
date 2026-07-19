@@ -1,0 +1,22 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="18" y1="14" x2="78" y2="82" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E0B67A"/>
+      <stop offset="1" stop-color="#8B6914"/>
+    </linearGradient>
+    <linearGradient id="cup" x1="30" y1="28" x2="64" y2="70" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8EE"/>
+      <stop offset="1" stop-color="#F0DEC5"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="76" height="76" rx="24" fill="url(#bg)"/>
+  <rect x="10.75" y="10.75" width="74.5" height="74.5" rx="23.25" stroke="rgba(255,255,255,0.24)"/>
+  <path d="M37 29C33.8 25.5 34.1 21.7 37.8 18.5" stroke="#FFF3DE" stroke-width="4" stroke-linecap="round"/>
+  <path d="M49 28C45.8 24.6 46.2 20.8 49.8 17.8" stroke="#FFF3DE" stroke-width="4" stroke-linecap="round"/>
+  <path d="M61 29C57.8 25.5 58.2 21.7 61.8 18.6" stroke="#FFF3DE" stroke-width="4" stroke-linecap="round"/>
+  <path d="M28 39C28 35.7 30.7 33 34 33H56C61 33 65 37 65 42V47C65 51.4 61.4 55 57 55H56V58C56 65.2 50.2 71 43 71C35.8 71 30 65.2 30 58V55H28V39Z" fill="url(#cup)"/>
+  <path d="M56 39H61C65.4 39 69 42.6 69 47C69 51.4 65.4 55 61 55H56" stroke="#F6E7D1" stroke-width="5" stroke-linecap="round"/>
+  <path d="M26 58H60" stroke="#53341A" stroke-width="5" stroke-linecap="round"/>
+  <path d="M37.5 46.5C41.1 42.3 45.4 41.4 49.8 43.8C53.6 45.9 56.8 45 59.5 41.7" stroke="#8B6914" stroke-width="4.5" stroke-linecap="round"/>
+  <circle cx="69" cy="27" r="5" fill="#FFF7EA" fill-opacity="0.9"/>
+</svg>
